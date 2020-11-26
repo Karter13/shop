@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerBlock {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.basket {
+    cursor: pointer;
+}
+
+.login {
+    margin-left: 40px;
+}
